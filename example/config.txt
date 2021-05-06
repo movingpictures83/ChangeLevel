@@ -1,0 +1,2 @@
+Prefix plugins/ChangeLevel/example
+Plugin ChangeLevel inputfile parameters.txt outputfile .

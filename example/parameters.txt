@@ -1,0 +1,4 @@
+otufile	otu_table.csv
+tree	tax_table.csv
+mapping	sample_data.csv
+column	Rank2
